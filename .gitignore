@@ -105,3 +105,4 @@ wp-content/wflogs/
 
 #configs
 *.conf
+!test_inx.sql
